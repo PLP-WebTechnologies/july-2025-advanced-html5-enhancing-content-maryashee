@@ -36,7 +36,7 @@ Submit a single HTML file named `enhanced-form.html`. It should include:
 ## Tips
 
 * Proper and meaningful use of lists, tables, and media.
-* Clarity and accessibility of form structure.
+* Clarity and accessibility of form structure.,
 * Correct use of form elements and attributes.
 * Effective application of native HTML5 validation.
 * Clean, well-indented, and maintainable HTML code.
